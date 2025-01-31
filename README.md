@@ -4,7 +4,7 @@
 This project is part of an academic assignment analyzing the Bike Sharing Dataset from the UCI Machine Learning Repository. The dataset contains hourly records of bike rentals in Washington, D.C., alongside weather conditions and other predictive factors. The goal is to perform EDA and build a regression model to predict bike demand.
 
 ## Dataset
-- Source: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset)
 - File used: `hour.csv` (hourly bike rental data)
 - Features: Includes time, temperature, humidity, wind speed, and rental counts.
 
